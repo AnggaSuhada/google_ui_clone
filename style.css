@@ -1,0 +1,69 @@
+.countainer{
+    display: flex;
+    justify-content: flex-end;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.bulet{
+    width: 32px;
+    height: 32px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    color: white;
+    font-size: 10px;
+}
+a{
+    margin-right: 10px;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.input{
+    width: 400px;
+    border-radius: 10px;
+}
+.jarak{
+    margin-top: 10px;
+}
+.jpx{
+    display: flex;
+    align-items: center;
+}
+.jpi{
+    margin-right: 10px;
+}
+.axd{
+    background-color: black;
+    margin-top: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.txt{
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.ajg{
+    display: flex;
+    justify-content: space-between;
+    
+}
+}
+
+.ajg a{
+    color: white;
+}
+.qwe{
+    color: blue;
+}
